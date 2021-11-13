@@ -10,6 +10,19 @@
 </c_parts>
   </background>
   <background id="changing_room_bg.swf" name="Y" enable="N" default="N" is_premium="N" aid="9699" money="0" sharing="0"/>
+  <background id="Caillou_House_Resized.swf" name="Y" enable="N" default="N" is_premium="N" aid="9699" money="0" sharing="0"/>
+  <background id="Clouds_Night.swf" name="Y" enable="N" default="N" is_premium="N" aid="9699" money="0" sharing="0"/>
+  <background id="Starry_Night.swf" name="Y" enable="N" default="N" is_premium="N" aid="9699" money="0" sharing="0"/>
+  <background id="nathantda_galaxy.swf" name="Y" enable="N" default="N" is_premium="N" aid="9699" money="0" sharing="0"/>
+  <background id="Grasslands.swf" name="Grasslands" enable="Y" default="N" is_premium="N" aid="9699" money="0" sharing="0"/>
+  <background id="Moon_with_stars.swf" name="Moon With Stars" enable="Y" default="N" is_premium="N" aid="9699" money="0" sharing="0"/>
+  <background id="Starry_Sky.swf" name="Starry Sky" enable="Y" default="N" is_premium="N" aid="9699" money="0" sharing="0"/>
+  <background id="Wack_O_Whackers_Restaraunt.swf" name="Wack O Whackers Restaurant" enable="Y" default="N" is_premium="N" aid="9699" money="0" sharing="0"/>
+  <background id="TheCreators_Room.swf" name="The Creators Room" enable="Y" default="N" is_premium="N" aid="9699" money="0" sharing="0"/>
+  <background id="sitting_room_night_bg.swf" name="Sitting Room Night" enable="Y" default="N" is_premium="N" aid="9699" money="0" sharing="0"/>
+  <background id="Alexander_SideHallway.swf" name="Alexander Hallway" enable="Y" default="N" is_premium="N" aid="9699" money="0" sharing="0"/>
+  <background id="Alexander_FrontHallway.swf" name="Alexander Hallway" enable="Y" default="N" is_premium="N" aid="9699" money="0" sharing="0"/>
+  <background id="green_hill_valley02.swf.swf" name="Green Hill Valley 02" enable="Y" default="N" is_premium="N" aid="9699" money="0" sharing="0"/>
   <background id="battlefield_bg.swf" name="Y" enable="N" default="N" is_premium="N" aid="9698" money="0" sharing="0"/>
   <background id="camp_int_bg.swf" name="Y" enable="N" default="N" is_premium="N" aid="9697" money="0" sharing="0"/>
   <background id="army_camp_close_bg.swf" name="Army camp (close up)" enable="N" default="N" is_premium="N" aid="9658" money="0" sharing="0"/>
@@ -3071,6 +3084,12 @@
     <state id="msp_toy_workshop_doorframe_toy_workshop_doorframe1.swf" name="closed" enable="Y" default="Y"/>
     <state id="msp_toy_workshop_doorframe_toy_workshop_doorframe2.swf" name="open" enable="Y"/>
   </prop>
+  <prop id="msp_Alex_door" name="Alexanders Door" holdable="0" placeable="1" wearable="0" facing="left" thumb="Alexander_FrontDoor.swf" enable="N" is_premium="N" aid="8978" money="0" sharing="0">
+    <state id="Alexander_FrontDoor.swf" name="Closed - Front" enable="Y" default="Y"/>
+    <state id="Alexander_FrontDoorOpenedNight.swf" name="Opened - Front Night" enable="Y"/>
+    <state id="Alexander_SideDoor.swf" name="Closed - Side" enable="Y"/>
+    <state id="Alexander_SideDoorOpened.swf" name="Opened - Side Night" enable="Y"/>
+  </prop>
   <prop id="cc_ushanka_hat.swf" name="Ushanka Hat" holdable="0" placeable="1" wearable="1" facing="left" thumb="" enable="Y" is_premium="N" aid="8999" money="0" sharing="0"/>
   <prop id="cc_ushanka_hat_wool.swf" name="Ushanka Hat With Wool" holdable="0" placeable="1" wearable="1" facing="left" thumb="" enable="Y" is_premium="N" aid="9000" money="0" sharing="0"/>
   <prop id="msp_forearmup" name="Forearm" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_forearmup_cc_hand_up_large.swf" enable="Y" is_premium="N" aid="9083" money="0" sharing="0">
@@ -3139,6 +3158,9 @@
     <state id="msp_door_front_yard_house_door_opened.swf" name="Open" enable="Y" default="Y"/>
   </prop>
   <prop id="front_yard_tree.swf" name="Tree" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="9120" money="0" sharing="0"/>
+  <prop id="planet_earth.swf" name="Earth" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="9120" money="0" sharing="0"/>
+  <prop id="Alexander_House.swf" name="Alexander House" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="9120" money="0" sharing="0"/>
+  <prop id="Alexander_HouseDoorOpened.swf" name="Alexander House With Door Opened" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="9120" money="0" sharing="0"/>
   <prop id="front_yard_sign.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="9121" money="0" sharing="0"/>
   <prop id="police_station_chair.swf" name="Chair" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="9122" money="0" sharing="0"/>
   <prop id="police_station_table.swf" name="Table" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="9123" money="0" sharing="0"/>
